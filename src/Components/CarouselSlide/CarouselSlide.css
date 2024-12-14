@@ -1,0 +1,28 @@
+.main{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.carousel-indicators button {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #000; /* Change to your desired color */
+  border: none;
+}
+
+.carousel-indicators .active {
+  background-color: #f2aa4c !important; /* Active indicator color */
+}
+.carousel-indicators button {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #000; /* Change to your desired color */
+  border: none;
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 10px !important;
+  height: 10px !important;
+  margin-bottom: -1rem !important;
+}

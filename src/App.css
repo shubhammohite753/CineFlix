@@ -1,0 +1,7 @@
+.App {
+  background-color: #000000;
+  min-height: 100vh; /* Ensure the height covers the full viewport */
+  margin: 0; /* Reset default margins */
+  /* padding: 0; */
+  color: white; /* Optional: Set text color for better visibility */
+}

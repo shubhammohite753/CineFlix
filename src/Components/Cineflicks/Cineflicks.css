@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .responsive-div {
+      width: 200px !important;
+      height: 33px !important;
+      place-content: center;
+    }
+    .diwali{
+        height: 100px !important;
+    }
+  }
+  

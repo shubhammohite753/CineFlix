@@ -1,0 +1,21 @@
+
+.copy-right {
+  background-color: #f0aa50;
+  height: 65px;
+}
+.footer-nav {
+  color: white;
+}
+.footer-logo {
+  width: 115px;
+}
+.social-logo {
+  width: 50px;
+  height: 50px;
+}
+/* @media (min-width: 600px) and (max-width: 1200px) {
+    .footer-logo{
+        width: 229px;
+        height: 53px;
+    }
+  } */

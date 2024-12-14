@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #000000 !important;
+}
+
+.navbar .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.navbar .nav-link.active {
+  color: #f2aa4c !important;
+}
+
+.navbar .btn-outline-success {
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.navbar .btn-outline-success:hover {
+  background-color: #f2aa4c !important;
+  border-color: #f2aa4c !important;
+}
+
+.navbar-logo {
+  width: 200px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.search-input {
+  color: #c4c4c4;
+}
+.search-icon {
+  padding-right: 5px;
+}
+.wallet {
+  color: #000000;
+}
+.wallet-icon {
+  padding-right: 10px;
+}

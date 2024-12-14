@@ -1,0 +1,12 @@
+.main {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.view-text{
+    color: #F2AA4C;
+    font-size: 15px;
+    cursor: pointer;
+}
+.movie-text{
+    font-size: 15px;
+}
